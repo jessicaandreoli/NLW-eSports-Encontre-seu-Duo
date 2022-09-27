@@ -28,6 +28,16 @@
 - Buscar Discord pelo ID do anúncio
 - Enviar notificação quando um anúncio for criado (mobile)
 
+# Rodando a Aplicação 🎞️ 
+### Mobile
+- npx expo start --lan
+
+### Web
+- npm run dev
+
+### Server 
+- npm run dev
+
 # Tecnologias e conhecimentos utilizados 📜
 - JavaScript
 - TypeScript
