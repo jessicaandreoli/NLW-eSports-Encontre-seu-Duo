@@ -26,6 +26,7 @@
 - Criação de novo anúncio
 - Listagem de anúncios por game
 - Buscar Discord pelo ID do anúncio
+- Enviar notificação quando um anúncio for criado (mobile)
 
 # Tecnologias e conhecimentos utilizados 📜
 - JavaScript
@@ -34,9 +35,11 @@
 - ReactJs
 - React Native
 - Express
+- Axios
 - TailwindCss
 - PostCss
 - Prisma ORM
+- Radix
 - Expo
 - Vite
 - Métodos HTTP
